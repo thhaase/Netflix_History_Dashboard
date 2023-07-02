@@ -2,7 +2,7 @@
 
 ## Description of the Project
 
-I used the [linked project](https://github.com/thhaase/R_Netflix_history_script) to learn how to create a shiny dashboard. 
+I used the [linked project](https://github.com/thhaase/R_Netflix_history_script) I did a few months ago to learn how to create a shiny dashboard. 
 
 ### Sharing the tool with friends
 
